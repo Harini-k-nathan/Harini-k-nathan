@@ -10,7 +10,7 @@
   - [Building Frameworks using Web Applications](https://github.com/Harini-k-nathan/SeleniumTestNG.git)
   
 - <b>Appium Tests</b>
-  - [Working with Appium for Automating native, web and hybrid applications)](https://github.com/Harini-k-nathan/Appium.git)
+  - [Working with Appium for Automating native, web and hybrid applications](https://github.com/Harini-k-nathan/Appium.git)
  
 <h2>📺 Work Experience </h2>
 <h3> Client - Accenture Solutions Pvt Ltd (Sept 2022 - Feb 2024) </h3>
